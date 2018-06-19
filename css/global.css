@@ -6,3 +6,23 @@
 .navbar-default .navbar-brand {
 	color: #ffffff;
 }
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #BDBDBD;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ffffff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #ffffff;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color: #424242;
+}
