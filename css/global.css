@@ -23,6 +23,10 @@
     color: #ffffff;
 }
 
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+
 .jumbotron .h1, .jumbotron h1 {
     color: #424242;
 }
