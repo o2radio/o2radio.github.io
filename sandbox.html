@@ -118,10 +118,11 @@
                 "cgao@wellesley.edu",
                 "This is a subject",
                 "this is the body",
-                {token: "9bad0614-056e-494d-9f47-35ac2aeaddad"}
+                {
+                    token: "627dca79-378c-4285-8612-8ae0d688aaef",
+                    callback: function done(message) { alert("sent") }
+                }
             );
-
-            console.log("Sent");
         }
     </script>
 </body>
